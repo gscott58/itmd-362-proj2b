@@ -6,7 +6,7 @@ body { margin: 0; padding: 0;  background: #eee; }
 body {
 		background-image: url("../img/iit-banner-photo.jpg");
 		background-size: cover;         /*set bg image cover entire page */
-		backgroung-repeat: no-repeat;   /* do not repeat bg image */	
+		background-repeat: no-repeat;   /* do not repeat bg image */	
 }
 /*------------------*/ 
 /*- Navigation Bar -*/

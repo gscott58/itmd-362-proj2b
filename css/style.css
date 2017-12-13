@@ -45,7 +45,7 @@ menu a {
 menu ul li ul li:hover { background-color:#bb3946; }
 
 menu a:hover { 
-	 background-color:none;
+	 background-color:#ffffff;
 	 color:#fff;
 }
 
